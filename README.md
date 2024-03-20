@@ -11,6 +11,10 @@
 
 </div>
 
+## Acknowledgement
+
+This is a fork of [NuroDev's Personal Portfolio](https://github.com/NuroDev/nuro.dev) website template. It will be used as a template to create my own personal and professional blog space. Credit to the developer(s) who have contributed to this project thus far.
+
 ## 🛠 Development
 
 Clone the repository
